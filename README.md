@@ -144,7 +144,6 @@ public class AnimalFarm {
 		Animal dog = new Animal("Woofy",4,"woof!!","Dog"); //initialize dog object
 		Animal cat = new Animal("Jerry",4,"Meow!!","Cat"); //initialize cat object
 		Animal chicken = new Animal("Ben",2,"cluck cluck!!","Chicken"); //initialize cat object
-
         dog.print();
         cat.print();
         chicken.print();
