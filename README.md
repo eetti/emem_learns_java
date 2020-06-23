@@ -133,7 +133,6 @@ public class Animal implements IAnimal {
 
 ### AnimalFarm.java
 ```java
-
 package com.emem.tutorials.test;
 
 import com.emem.tutorials.Animal;
@@ -148,6 +147,5 @@ public class AnimalFarm {
         cat.print();
         chicken.print();
     }
-}
-		
+}		
 ```
